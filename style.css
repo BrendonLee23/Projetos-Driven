@@ -1,0 +1,141 @@
+body {
+    font-family: 'Encode Sans', sans-serif;
+    font-weight: 700;
+    background-color: white;
+    align-items: center ;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 0 0;
+}
+
+.logo img {
+    width: 171px;
+}
+
+.nav-pai {
+    display:flex;
+    justify-content: center;
+    margin: 20px 0 0 0;
+    border-top: 1px solid #F5F6F7;
+    border-bottom: 1px solid #F5F6F7;
+}
+
+.nav {
+    display:flex;
+    justify-content: space-between;
+    width: 1320px;
+    margin: 20px 0 20px -5px;
+}
+
+.nav p {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 1250px;
+    margin: 0 0 60px 320px;
+    
+}
+
+.container-esq {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+
+
+.container-esq h1 {
+    font-size: 52px;
+    color: #C4160C;
+    margin: 35px 0 35px 0;
+}
+
+.container-esq p {
+    margin-top: 15px;
+    color: #303134
+}
+
+.noticias img {
+    width: 200px;
+    border-radius: 12px;
+}
+
+.noticias-L {
+    display: flex;
+    margin: 20px 0 0 0;
+    justify-content: space-between;
+}
+
+.noticias { 
+    width: 200px;
+}
+
+.noticias h4 {
+    color: #C4170C;
+    font-size: 14px;
+    font-weight: 450;
+    margin-top: 10px;
+}
+
+.noticias h2 {
+    font-size: 20px;
+    color: #2F3134;
+    margin-top: 10px;
+}
+
+.noticias p {
+    font-weight: lighter;
+    font-size: 13px;
+    margin-top: 20px;
+    width: 150px;
+}
+
+.borda {
+    margin: 20px 0 0 0;
+}
+
+.container-dir {
+    margin-left: 20px;
+    display: flex;
+}
+.noticias-R {
+    margin: 20px 0 0 0;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 20px;
+    width: 200px ;
+}
+.container-dir img {
+    display: flex;
+    margin-top: 25px;
+    width: 230px;
+    margin-right: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container-esq img {
+    width: 200px;
+}
+
+.yellow {
+    color: #EC8006;
+}
+
+.green {
+    color: #16AE54;
+}
+
+
